@@ -1,4 +1,11 @@
 # NXU-Assignments -BAN6420 Module 1 Assignment
+#Voke Harrison Edafejimue
+#Learner ID - 143304
+
+#Highridge Construction Company Payment Slips
+#Print payslips for each Employee
+#Display name, salary, gender and employee level
+#
 Attached are 2 Scripts written in Python and R, for creating a dynamic data structures that collect and store upto 400 Employee info from users.
 Employee info include: Full Name, Gender and Salary.
 This information is used to print payslips for each Employee.
